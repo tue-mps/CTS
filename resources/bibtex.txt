@@ -1,6 +1,6 @@
-@inproceedings{author20XXtitle,
-  title={Please cite me},
-  author={Author, First and Author, Second and Author, Third},
-  booktitle={Conference},
-  year={20XX}
+@inproceedings{lu2023cts,
+  title={{Content-aware Token Sharing for Efficient Semantic Segmentation with Vision Transformers}},
+  author={Lu, Chenyang and {de Geus}, Daan and Dubbelman, Gijs},
+  booktitle={IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2023}
 }
